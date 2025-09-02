@@ -1,4 +1,4 @@
-# 🚀 Entrapeer Backend — Agentic Architecture
+# 🚀 Backend — Agentic Architecture
 
 ## 🧠 Project Overview
 
@@ -62,7 +62,7 @@ At its core, the **PeerAgent** autonomously routes each task to specialized agen
 ## 🗂️ Project Structure
 
 ```
-Entrapeer-Backend/
+Backend/
 │
 ├── api/
 │   └── routes.py                # FastAPI route definitions
@@ -193,6 +193,5 @@ pytest
 ## 👤 Author
 
 **Furkan Durmuş**\
-*Entrapeer Backend Case Study – 2025*
 
 
